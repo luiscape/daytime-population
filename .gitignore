@@ -4,3 +4,8 @@ venv/*
 venv/**
 
 database_data/*
+
+*.zip
+*.csv
+
+data/tract/*
